@@ -54,20 +54,7 @@ Practicing structured problem solving and core algorithm patterns daily in C++:
 
 ---
 
-### GitHub Activity & Contributions
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamBaurai&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://ghchart.rshah.org/216e39/SakshamBaurai" alt="Saksham's GitHub Contribution Heatmap" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamBaurai&hide=HTML&langs_count=6&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamBaurai&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 ---
 
